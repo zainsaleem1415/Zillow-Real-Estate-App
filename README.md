@@ -6,10 +6,12 @@ This project is static (no backend) and is created for learning and portfolio pu
 ---
 
 ## 🚀 Features
-- Responsive design for mobile and desktop.  
-- Property cards showing **price, size, and location**.  
-- Modern UI with **Tailwind CSS**.  
-- Static content, no backend required.  
+- Fully responsive design for mobile, tablet, and desktop.  
+- Clean property cards displaying price, size, and location.  
+- Built with React for fast and modular development.  
+- Styled using Tailwind CSS for modern and consistent UI.  
+- Static frontend project with no backend required.  
+- Easy to customize and extend for real estate listings.  
 
 ---
 
