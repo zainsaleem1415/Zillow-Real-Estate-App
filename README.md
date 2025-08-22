@@ -1,12 +1,35 @@
-# React + Vite
+# Zillow Real Estate Frontend App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple real estate **frontend application** built with **React** and **Tailwind CSS**.  
+This project is static (no backend) and is created for learning and portfolio purposes.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- Responsive design for mobile and desktop.  
+- Property cards showing **price, size, and location**.  
+- Modern UI with **Tailwind CSS**.  
+- Static content, no backend required.  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Preview
+![App Screenshot](https://via.placeholder.com/800x400?text=App+Preview)  
+*(Replace with your actual screenshot if available)*
+
+---
+
+## 🛠️ Tech Stack
+- **React**  
+- **Tailwind CSS**  
+
+---
+
+## 📂 Installation
+Clone the repo and install dependencies:
+
+```bash
+git clone https://github.com/YOUR-USERNAME/Real-Estate-App.git
+cd Real-Estate-App
+npm install
+npm run dev
